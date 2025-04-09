@@ -1,0 +1,7 @@
+# requirements.txt for Face Recognition Project
+
+opencv-python
+face-recognition
+numpy
+firebase-admin
+# Add other libraries if needed
