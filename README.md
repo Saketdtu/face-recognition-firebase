@@ -51,9 +51,3 @@ This project implements a real-time face recognition system using Python, OpenCV
     python main.py
     ```
 
-## Code Structure
-
-* `main.py`: The main script to run the face recognition application. Handles webcam capture, face detection, recognition, and Firebase interaction.
-* `requirements.txt`: Lists the required Python packages.
-* `.gitignore`: Specifies files to be ignored by Git (e.g., credentials, virtual environment).
-* `firebase-credentials.json`: (You need to add this) Your Firebase service account key file. **Ensure this is in your `.gitignore`!**
